@@ -6,7 +6,7 @@ Welcome to the IEEE Short Academic Paper Assignment Repository for ENTERPRISE SY
 |SAP + Demo           |<a href="" >Group 1</a>|<a href="" >Group 2</a>|
 |Low code development + Demo         |<a href="" >Group 3</a>|<a href="" >Group 4</a>|
 |Microsoft Azure + Demo|<a href="" >Group 5</a>|<a href="" >Group 6</a>|
-|Software in Enterprise Information System|<a href="" >Group 7</a>|<a href="" >Group 8</a>|
+|Software in Enterprise Information System|<a href="https://github.com/AlieyaZawanie/Academic-Paper-EIS-2024/tree/main/group%207" >Group 7</a>|<a href="" >Group 8</a>|
 |Past, Current and Future Trend in Enterprise Information System|<a href="" >Group 9</a>|<a href="" >Group 10</a>|
 |Enterprise Information System in University|<a href="" >Group 11</a>|<a href="" >Group 12</a>|
 |Enterprise Information System in Manufacturing Industry|<a href="" >Group 13</a>|<a href="" >Group 14</a>|
